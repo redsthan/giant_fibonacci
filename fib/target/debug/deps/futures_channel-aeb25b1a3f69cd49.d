@@ -1,0 +1,10 @@
+C:\Users\rouss\Documents\GitHub\giant_fibonacci\fib\target\debug\deps\futures_channel-aeb25b1a3f69cd49.rmeta: C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\lib.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\lock.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\mod.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\queue.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\sink_impl.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\oneshot.rs
+
+C:\Users\rouss\Documents\GitHub\giant_fibonacci\fib\target\debug\deps\futures_channel-aeb25b1a3f69cd49.d: C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\lib.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\lock.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\mod.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\queue.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\sink_impl.rs C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\oneshot.rs
+
+C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\lib.rs:
+C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\lock.rs:
+C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\mod.rs:
+C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\queue.rs:
+C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\mpsc\sink_impl.rs:
+C:\Users\rouss\.cargo\registry\src\github.com-1ecc6299db9ec823\futures-channel-0.3.30\src\oneshot.rs:
