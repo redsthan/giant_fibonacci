@@ -145,7 +145,7 @@ async fn main() {
     });
 
     tokio::spawn(async move {
-        let n = 299;
+        let n = 299_999_999_999;
         let threads = num_cpus;
         let result = parallel_fibonacci(n, threads, progress.clone());
         
